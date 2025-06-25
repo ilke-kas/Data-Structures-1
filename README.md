@@ -1,7 +1,7 @@
 # CSDS 201 – Data Structures (2020)  
 **Repository of Projects by İlke Kaş (21803184)**
 
-This repository contains implementations of **four basic systems** developed for the CSDS 201 (Data Structures) course at Case Western Reserve University in Fall 2020. Each system demonstrates practical use of data structures and object-oriented programming principles in C++.
+This repository contains implementations of **four basic systems** developed for the CSDS 201 (Data Structures) course at Bilkent University in Fall 2020. Each system demonstrates practical use of data structures and object-oriented programming principles in C++.
 
 ---
 
